@@ -1,0 +1,46 @@
+
+
+.presentacion {
+  background-color:var(--color-two);
+  color: var(--color-white);
+  text-align: center;
+  padding-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  width: 90%;
+}
+
+.presentacion .perfil img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
+
+.presentacion p {
+  font-size: 18px;
+}
+
+.presentacion h2 {
+  margin: 10px 0;
+  font-size: 36px;
+}
+
+.datos {
+  background-color: var(--color-white);
+  padding: 20px;
+  border-radius: 0 0 8px 8px;
+  width: 100%;
+}
+
+.datos h2 {
+  color: var(--color-three);
+  font-size: 24px;
+}
+
+.datos p {
+  font-size: 16px;
+  color: var(--color-three);
+}

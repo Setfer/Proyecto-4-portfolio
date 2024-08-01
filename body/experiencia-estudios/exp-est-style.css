@@ -1,0 +1,22 @@
+.experiencia-estudios {
+  text-align: center;
+  background-color: var(--color-one);
+  width: 80%;
+  border-radius: 8px ;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  
+}
+
+.experiencia-estudios p {
+  color: var(--color-four);
+}
+.experiencia-estudios h3 {
+  color: var(--color-five);
+}
+
+
+
+.hidden{
+  display: none;
+}

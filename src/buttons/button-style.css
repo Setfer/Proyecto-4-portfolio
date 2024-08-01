@@ -1,0 +1,24 @@
+.botton{
+  border: none;
+  font: 30;
+  cursor: pointer;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.button {
+  background: none;
+  border: none;
+  font-size: 24px;
+  margin: 0 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: color 0.3s;
+  color: var(--color-four);
+}
+.button:hover {
+color: var(--color-two);;
+}

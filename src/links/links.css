@@ -1,0 +1,28 @@
+
+
+
+.link {
+  display: block; 
+  text-align: center;
+  text-decoration: none;
+  color: var(--color-white);
+}
+
+/* Efecto hover para los enlaces */
+.link:hover {
+  color: var(--color-one);
+}
+
+
+.link-proyecto{
+  color: var(--color-five);
+  background-color: var(--color-one);
+  margin: 5px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.link-proyecto:hover {
+  color: var(--color-one);
+  background-color: var(--color-five);
+}
