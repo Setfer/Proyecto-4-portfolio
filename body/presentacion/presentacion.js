@@ -11,7 +11,7 @@ const saludo = document.createElement("p")
 saludo.textContent= "Hola"
 
 const titulo = document.createElement("h2")
-titulo.textContent= "Yo soy Developer"
+titulo.textContent= "Soy Developer"
 
 const img = document.createElement("img")
 img.src="https://cdn-icons-png.flaticon.com/512/6326/6326055.png"
