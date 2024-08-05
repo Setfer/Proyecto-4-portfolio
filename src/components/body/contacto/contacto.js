@@ -4,10 +4,10 @@ let main = document.querySelector ("main")
 main.innerHTML += `<section id="sidebar">
   <button id="closeSidebar">&times;</button>
   <h2>Contacto</h2>
-  <p>Direccion :</p>
-  <p>Número de telefono :</p>
-  <p>Correo electronico :</p>
-  <p>Linkedin :</p>
+  <p>Direccion : Calle Jesus en Jerusalen,La Carolina, Jaen, 23200</p>
+  <p>Número de telefono :605966883</p>
+  <p>Correo electronico: andres88lacarolina@gmail.com</p>
+  <p>Linkedin: https://www.linkedin.com</p>
 </section>`
 
 

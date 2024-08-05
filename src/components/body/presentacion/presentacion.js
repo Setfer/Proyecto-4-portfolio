@@ -27,7 +27,11 @@ document.querySelector("main").append(contenedorMain)
  const contenedorDatos = document.createElement("div")
  contenedorDatos.classList ="datos"
 
- contenedorDatos.innerHTML = `<h2>Sobre mi</h2> <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime maiores eius qui, ipsam illum repellendus soluta neque totam, mollitia nobis magni rerum dignissimos velit nisi cumque voluptatem. Maiores, dicta autem.</p>`
+ contenedorDatos.innerHTML = `<h2>Sobre mi</h2> <p>Actualmente estoy trabajando como agente de 1N y 2N para la empresa de Teleperformance dando soporte a la compañia de Vodafone en todo lo relacionado con incidencias y configuraciones sobre FTTH, HFC, telefonía móvil y centralitas PBX para empresas.</p>
+
+<p>Ademas también me encuentro cursando el bootcamp de The Power Rock (The code) como desarrollador web Full stack.</p>
+
+<p>Me interesa todo lo relacionado con el mundo de la informática y las telecomunicaciones, con especial interés en el mundo de las redes y el desarrollo web. Dispongo de una muy buena capacidad de aprendizaje en entornos nuevos y adaptabilidad a los cambios que puedan surgir.</p>`
 
  document.querySelector(".presentacion").append(contenedorDatos)
 
